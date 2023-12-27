@@ -1,7 +1,7 @@
 # Projeto de Ciência de Dados
 
-Projeto de Ciência de Dados utilizando Python no formato notebook.
-Objetivo: prever o preço de um imóvel do Airbnb baseado nas características dele.
+Projeto de Ciência de Dados utilizando Python no formato notebook. <br>
+Objetivo: prever o preço de um imóvel do Airbnb baseado nas características dele. <br>
 Desafio do Kaggle: "Rio de janeiro Airbnb open data"
 
 ## Ciência de Dados
