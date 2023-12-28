@@ -2,7 +2,7 @@
 
 Projeto de Ciência de Dados utilizando Python no formato notebook. <br>
 Objetivo: prever o preço de um imóvel do Airbnb baseado nas características dele. <br>
-Desafio do Kaggle: <a href="https://www.kaggle.com/datasets/allanbruno/airbnb-rio-de-janeiro">Rio de janeiro Airbnb open data<\a>
+Desafio do Kaggle: <a href="https://www.kaggle.com/datasets/allanbruno/airbnb-rio-de-janeiro">Rio de janeiro Airbnb open data</a>
 
 ## Ciência de Dados
 ### O que é?
@@ -29,3 +29,5 @@ São várias etapas importantes:
 6. Modelagem + Algoritmo
 7. Interpretação dos Resultados
 8. Deploy / produção
+
+<p> </p>
