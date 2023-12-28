@@ -1,6 +1,5 @@
 # Projeto de Ciência de Dados
 
-## Resumo
 Projeto de Ciência de Dados utilizando Python no formato notebook. <br>
 Objetivo: prever o preço de um imóvel, ou preço de uma diária, do Airbnb baseado nas características dele. <br>
 Base de dados retiradas do Kaggle: <a href="https://www.kaggle.com/datasets/allanbruno/airbnb-rio-de-janeiro">Rio de janeiro Airbnb open data</a>
